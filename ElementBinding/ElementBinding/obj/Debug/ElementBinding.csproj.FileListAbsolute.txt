@@ -1,0 +1,15 @@
+C:\Code\CIT195\ElementBinding\ElementBinding\bin\Debug\ElementBinding.exe.config
+C:\Code\CIT195\ElementBinding\ElementBinding\bin\Debug\ElementBinding.exe
+C:\Code\CIT195\ElementBinding\ElementBinding\bin\Debug\ElementBinding.pdb
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding.csprojAssemblyReference.cache
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\MainWindow.g.cs
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\App.g.cs
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding_MarkupCompile.cache
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding_MarkupCompile.lref
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\MainWindow.baml
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding.g.resources
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding.Properties.Resources.resources
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding.csproj.GenerateResource.cache
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding.csproj.CoreCompileInputs.cache
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding.exe
+C:\Code\CIT195\ElementBinding\ElementBinding\obj\Debug\ElementBinding.pdb
